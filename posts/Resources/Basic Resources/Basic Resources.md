@@ -1,0 +1,5 @@
+- [[Food]]
+- [[Clothing]]
+- [[Heating]]
+- [[Water]]
+- [[Housing]]

@@ -1,0 +1,1 @@
+War leads to [[Devastation]] in affected [[Regions]]

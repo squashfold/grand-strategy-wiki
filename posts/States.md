@@ -1,0 +1,1 @@
+States contain [[Resources]] which are developed by [[Construction]] being built in the corresponding State.
